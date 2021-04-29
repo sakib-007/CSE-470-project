@@ -1,0 +1,15 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="supershop-management:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/supershop_management_jar</output-path>
+    <root id="archive" name="supershop-management.jar">
+      <element id="module-output" name="supershop-management" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/sqlite-jdbc-3.8.11.2.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/jgoodies-forms-1.8.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/miglayout15-swing.jar" path-in-jar="/" />
+      <element id="library" level="project" name="jgoodies-forms-1.8.0-sources" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/rs2xml.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/jdbc-api-1.4.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/sqlite-jdbc-3.7.15-SNAPSHOT-2.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
